@@ -1,6 +1,5 @@
 package com.thetestingacademy.ex04_Selenium_XPATH;
 
-import com.thetestingacademy.ex02_Selenium_Basics.CommonToAll;
 import io.qameta.allure.Description;
 import io.qameta.allure.Owner;
 import io.qameta.allure.Severity;

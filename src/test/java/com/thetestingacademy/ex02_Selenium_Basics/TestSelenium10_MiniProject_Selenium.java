@@ -1,5 +1,6 @@
 package com.thetestingacademy.ex02_Selenium_Basics;
 
+import com.thetestingacademy.CommonToAll;
 import io.qameta.allure.Description;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
